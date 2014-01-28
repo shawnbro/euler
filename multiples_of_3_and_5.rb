@@ -9,14 +9,14 @@
 #Find the sum of all the multiples of 3 or 5 below 1000.
 
 
-puts "Max number? "
-max_value = gets.chomp.to_i
+# puts "Max number? "
+# max_value = gets.chomp.to_i
 
-puts "First multiple?"
-multiple_1 = gets.chomp.to_i
+# puts "First multiple?"
+# multiple_1 = gets.chomp.to_i
 
-puts "Second multiple?"
-multiple_2 = gets.chomp.to_i
+# puts "Second multiple?"
+# multiple_2 = gets.chomp.to_i
 
 
 def multiple_adder(max_value, multiple_1, multiple_2)                                                                                           
