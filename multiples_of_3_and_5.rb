@@ -36,8 +36,6 @@ end
  multiple_adder(1000, 3, 5)
 #233,168
 
-#Example without Enumeration or Loops
-
 
 
 
