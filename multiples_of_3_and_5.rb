@@ -21,7 +21,7 @@
 
 def multiple_adder(max_value, multiple_1, multiple_2)                                                                                           
  
-  i = 0
+ i = 0
  sum = 0
 
   while i < max_value
@@ -35,8 +35,6 @@ end
 
  multiple_adder(1000, 3, 5)
 #233,168
-
-#Example without Enumeration or Loops
 
 
 
