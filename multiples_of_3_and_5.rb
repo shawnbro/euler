@@ -30,7 +30,7 @@ def multiple_adder(max_value, multiple_1, multiple_2)
     end
     i += 1
   end
-  puts sum
+  puts sums
 end
 
  multiple_adder(1000, 3, 5)
